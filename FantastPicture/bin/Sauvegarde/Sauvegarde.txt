@@ -1,0 +1,6 @@
+Clement;Paris;12
+Clement;Bordeaux;13
+Clement;Lyon;14
+Bob;Paris;12
+Bob;Paris;13
+Bob;Paris;14
